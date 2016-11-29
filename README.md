@@ -1,7 +1,7 @@
 LightField Photography
 ======================
 
-
+changed by MengHui Wang
 Please read the Lightfield Camera papers very carefully.
 http://graphics.stanford.edu/papers/CameraArray/
 
